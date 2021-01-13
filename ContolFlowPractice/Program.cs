@@ -18,7 +18,7 @@ namespace ContolFlowPractice
             {
                 Console.WriteLine( userInput + " is Valid");
             }
-            //ELSE CW("Please enter a valid number" )
+            //ELSE CW("Please enter a valid number" ).
             else
             {
                 Console.WriteLine("Please enter a valid number");
